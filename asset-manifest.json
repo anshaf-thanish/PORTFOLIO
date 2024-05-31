@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https//anshaf-thanish.github.io/Portfolio/static/css/main.ff973b14.css",
-    "main.js": "/https//anshaf-thanish.github.io/Portfolio/static/js/main.d116af08.js",
-    "static/js/453.e5407da2.chunk.js": "/https//anshaf-thanish.github.io/Portfolio/static/js/453.e5407da2.chunk.js",
-    "static/media/BG.jpg": "/https//anshaf-thanish.github.io/Portfolio/static/media/BG.9767e0ac9faf58ce0e5e.jpg",
-    "static/media/Ex-bg.jpg": "/https//anshaf-thanish.github.io/Portfolio/static/media/Ex-bg.86461249e9069b9d0321.jpg",
-    "static/media/Skills.jpg": "/https//anshaf-thanish.github.io/Portfolio/static/media/Skills.69e80a9075625f6ea586.jpg",
-    "index.html": "/https//anshaf-thanish.github.io/Portfolio/index.html",
-    "main.ff973b14.css.map": "/https//anshaf-thanish.github.io/Portfolio/static/css/main.ff973b14.css.map",
-    "main.d116af08.js.map": "/https//anshaf-thanish.github.io/Portfolio/static/js/main.d116af08.js.map",
-    "453.e5407da2.chunk.js.map": "/https//anshaf-thanish.github.io/Portfolio/static/js/453.e5407da2.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.edd4fd74.css",
+    "main.js": "/Portfolio/static/js/main.346911c4.js",
+    "static/js/453.e5407da2.chunk.js": "/Portfolio/static/js/453.e5407da2.chunk.js",
+    "static/media/BG.jpg": "/Portfolio/static/media/BG.9767e0ac9faf58ce0e5e.jpg",
+    "static/media/Ex-bg.jpg": "/Portfolio/static/media/Ex-bg.86461249e9069b9d0321.jpg",
+    "static/media/Skills.jpg": "/Portfolio/static/media/Skills.69e80a9075625f6ea586.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.edd4fd74.css.map": "/Portfolio/static/css/main.edd4fd74.css.map",
+    "main.346911c4.js.map": "/Portfolio/static/js/main.346911c4.js.map",
+    "453.e5407da2.chunk.js.map": "/Portfolio/static/js/453.e5407da2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff973b14.css",
-    "static/js/main.d116af08.js"
+    "static/css/main.edd4fd74.css",
+    "static/js/main.346911c4.js"
   ]
 }
