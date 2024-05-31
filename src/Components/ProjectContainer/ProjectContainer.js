@@ -9,7 +9,7 @@ export const ProjectContainer = () => {
             img:"https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?cs=srgb&dl=pexels-ann-h-45017-14936128.jpg&fm=jpg",
             title:"Portfolio",
             desc:"Welcome to my full stack developer portfolio showcasing my expertise in front-end and back-end development, database management, and passion for creating seamless digital experiences.",
-            link:"https://www.dropbox.com/scl/fi/nenlxi5b2kir5nq0b79a3/C.Vitae.pdf?rlkey=3s8n9vlu1amcqvjsvmxixfssi&dl=0"
+            link:"https://anshaf-thanish.github.io/Portfolio/"
         },
         
         {
