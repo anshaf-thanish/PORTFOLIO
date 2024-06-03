@@ -12,6 +12,47 @@ body {
   background-color: black;
 }
 
+@media (max-width:1281px){
+  body{
+    width: 100%;
+    font-size: 1.5rem;
+  }
+  }
+
+@media (max-width:1025px){
+  body{
+    width: 80%;
+    font-size: 1rem;
+  }
+}
+@media (max-width:801px){
+  body{
+    width: 70%;
+    font-size: 0.7rem;
+  }
+}
+@media (max-width:600px){
+  body{
+    width: 60%;
+    font-size: 0.4rem;
+    word-spacing: 5px;
+  }
+}
+@media (max-width:480px){
+  body{
+    width: 10%;
+    font-size: 0.3rem;
+    word-spacing: 3px;
+  }
+}
+@media (max-width:320px){
+  body{
+    width: 5%;
+    font-size: 0.2rem;
+    word-spacing: 3px;
+  }
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
